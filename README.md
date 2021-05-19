@@ -9,7 +9,7 @@ Desenvolvedor Full Stack formado em Ciência da Computação pela FAESA e um ama
 
 * Utilizo diariamente:
 
-<code><img height="32" src="https://img.icons8.com/color/32/000000/c-sharp-logo.pn" alt="Csharp" title="Csharp"/></code>
+<code><img height="32" src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="Csharp" title="Csharp"/></code>
 <code><img height="32" src="https://img.icons8.com/color/32/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 <code><img height="32" src="https://img.icons8.com/color/32/css3.png" alt="CSS3" title="CSS3"/></code>
 <code><img height="32" src="https://img.icons8.com/color/32/html-5.png" alt="HTML5" title="HTML5"/></code>
