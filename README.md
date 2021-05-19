@@ -9,17 +9,27 @@ Desenvolvedor Full Stack formado em Ciência da Computação pela FAESA e um ama
 
 * Utilizo diariamente:
 
-   ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png) ![SQLserver](https://img.icons8.com/color/30/000000/microsoft-sql-server.png) ![Azure](https://img.icons8.com/color/30/000000/azure-1.png) ![AngularJS](https://img.icons8.com/color/30/angularjs.png)
+<code><img height="32" src="https://img.icons8.com/color/32/000000/c-sharp-logo.pn" alt="Csharp" title="Csharp"/></code>
+<code><img height="32" src="https://img.icons8.com/color/32/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+<code><img height="32" src="https://img.icons8.com/color/32/css3.png" alt="CSS3" title="CSS3"/></code>
+<code><img height="32" src="https://img.icons8.com/color/32/html-5.png" alt="HTML5" title="HTML5"/></code>
+<code><img height="32" src="https://img.icons8.com/color/32/000000/microsoft-sql-server.png" alt="SQLserver" title="SQLserver"/></code>
+<code><img height="32" src="https://img.icons8.com/color/32/angularjs.png" alt="AngularJS" title="AngularJS"/></code>
+<code><img height="32" src="https://img.icons8.com/color/32/000000/azure-1.png" alt="Azure" title="Azure"/></code>
    
 * Tenho conhecimento (Utilizei antigamente, ou realizei alguns pequenos projetos sozinho para estudo): 
    
-   ![MySql](https://img.icons8.com/metro/30/000000/mysql.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![OracleSQL](https://img.icons8.com/plasticine/30/000000/oracle-pl-sql--v3.png) ![Java](https://img.icons8.com/dusk/30/000000/java-coffee-cup-logo.png) ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png)
-   
-   <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOsj91WqOOqVNlTJLklziiBMtyo2eanDDtg&usqp=CAU" alt="Lua"/></code>
+<code><img height="32" src="https://img.icons8.com/metro/30/000000/mysql.png" alt="MySql" title="MySql"/></code>
+<code><img height="32" src="https://img.icons8.com/material-outlined/30/github.png" alt="Github" title="Github"/></code>
+<code><img height="32" src="https://img.icons8.com/plasticine/30/000000/oracle-pl-sql--v3.png" alt="OracleSQL" title="OracleSQL"/></code>
+<code><img height="32" src="https://img.icons8.com/dusk/30/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/></code>
+<code><img height="32" src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png" alt="C++" title="C++"/></code>
+<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOsj91WqOOqVNlTJLklziiBMtyo2eanDDtg&usqp=CAU" alt="Lua" title="Lua"/></code>
 
 * Planejando aprender:
-* 
-  ![Angular](https://cdn.icon-icons.com/icons2/2699/PNG/32/angular_logo_icon_169595.png) ![Docker](https://img.icons8.com/dusk/30/000000/docker.png)
+
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/32/angular_logo_icon_169595.png" alt="Angular" title="Angular"/></code>
+<code><img height="32" src="https://img.icons8.com/dusk/32/000000/docker.png" alt="Docker" title="Docker"/></code>
 
 ## Contato:
 <a href="https://www.linkedin.com/in/vitorlmello/">
