@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack formado em Ciência da Computação pela FAESA e um amante de jogos formado em Técnologo em Jogos Digitas pela FAESA. Começei tentando a área de Game Design, porém oportunidades me apresentaram a área de desenvolvimento de software que acabou virando o meu foco.
 
-- 🌱 Atualmente realizando um desafio com [Jordhan](https://github.com/JordhanFelix) de realizaar diversos cursos.
+- 🌱 Atualmente realizando um desafio com [Jordhan](https://github.com/JordhanFelix) de fazer vários cursos onlines.
 - :trophy: Objetivos para 2021:  Aprender novas tecnologias e passar na prova do IELTS com média acima de 7.
 
 ## :wrench: Stacks
